@@ -19,7 +19,7 @@ import {
   Award,
   TrendingUp,
 } from "lucide-react"
-import Navbar from "@/components/ui-custom/navbar"
+
 
 // Mock data for demonstration - replace with your actual API calls
 const mockFeaturedProducts = [
